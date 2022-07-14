@@ -3,4 +3,4 @@ In this Repository, I have uploaded all Important Python Libraries such as [NumP
 
 ### [YouTube Video for this Tutorial](https://youtu.be/QGcYheU4Ufw)
 
-### [My Channel👉Click me](https://youtu.be/QGcYheU4Ufw)
+### [My Channel👉Click me](https://www.youtube.com/c/SimplifiedLearner)
